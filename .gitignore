@@ -1,0 +1,7 @@
+# Dart tooling
+.dart_tool/
+.packages
+build/
+
+# Packages should not commit their lockfile
+pubspec.lock
